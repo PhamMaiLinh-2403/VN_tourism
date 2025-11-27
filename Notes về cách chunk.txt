@@ -1,4 +1,4 @@
 - Giữa các phần nội dung lớn: \n\n\n, heading là dòng đầu tiên
-- Trong các nội dung lớn, giữa phần nội dung nhỏ: \n\n, heading là dòng đầu tiên
-- Trong các nội dung chi tiết, nếu muốn tách thì tách bằng \s\s\n, heading là dòng đầu tiên
+- Trong các nội dung lớn, giữa phần nội dung nhỏ: \n\n, heading là dòng đầu tiên nếu nó ít hơn 15 từ
+- Trong các nội dung chi tiết, nếu muốn tách thì tách bằng \s\s\n (heading là dòng đầu tiên nếu dòng đó có ít hơn 15 từ - ủa đúng không ta)
 - Nếu các nội dung chi tiết đã tách còn quá dài (quá 520 từ), cho phép chunks có overlap
